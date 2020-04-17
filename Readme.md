@@ -1,8 +1,8 @@
 # Instructions:
 
 ## On Workstation
-Install Docker
-Run below in command line
+- Install Docker
+- Run below in command line
 ```sh
 docker run -it -v `pwd`:/code ubuntu:latest
 ```
